@@ -73,6 +73,61 @@ public class CreateAgendaData extends HttpServlet {
 		
 		String[] musics=request.getParameterValues("musics");
 		String[] sports=request.getParameterValues("sports");
+		String[] rests = request.getParameterValues("rests");
+		String[] drinks =request.getParameterValues("drinks");
+		
+		String[] musics=request.getParameterValues("musics");
+		String[] sports=request.getParameterValues("sports");String[] rests = request.getParameterValues("rests");
+		String[] drinks =request.getParameterValues("drinks");
+		
+		String[] musics=request.getParameterValues("musics");
+		String[] sports=request.getParameterValues("sports");String[] rests = request.getParameterValues("rests");
+		String[] drinks =request.getParameterValues("drinks");
+		
+		String[] musics=request.getParameterValues("musics");
+		String[] sports=request.getParameterValues("sports");String[] rests = request.getParameterValues("rests");
+		String[] drinks =request.getParameterValues("drinks");
+		
+		String[] musics=request.getParameterValues("musics");
+		String[] sports=request.getParameterValues("sports");String[] rests = request.getParameterValues("rests");
+		String[] drinks =request.getParameterValues("drinks");
+		
+		String[] musics=request.getParameterValues("musics");
+		String[] sports=request.getParameterValues("sports");String[] rests = request.getParameterValues("rests");
+		String[] drinks =request.getParameterValues("drinks");
+		
+		String[] musics=request.getParameterValues("musics");
+		String[] sports=request.getParameterValues("sports");String[] rests = request.getParameterValues("rests");
+		String[] drinks =request.getParameterValues("drinks");
+		
+		String[] musics=request.getParameterValues("musics");
+		String[] sports=request.getParameterValues("sports");String[] rests = request.getParameterValues("rests");
+		String[] drinks =request.getParameterValues("drinks");
+		
+		String[] musics=request.getParameterValues("musics");
+		String[] sports=request.getParameterValues("sports");String[] rests = request.getParameterValues("rests");
+		String[] drinks =request.getParameterValues("drinks");
+		
+		String[] musics=request.getParameterValues("musics");
+		String[] sports=request.getParameterValues("sports");String[] rests = request.getParameterValues("rests");
+		String[] drinks =request.getParameterValues("drinks");
+		
+		String[] musics=request.getParameterValues("musics");
+		String[] sports=request.getParameterValues("sports");String[] rests = request.getParameterValues("rests");
+		String[] drinks =request.getParameterValues("drinks");
+		
+		String[] musics=request.getParameterValues("musics");
+		String[] sports=request.getParameterValues("sports");
+		String[] rests = request.getParameterValues("rests");
+		String[] drinks =request.getParameterValues("drinks");
+		
+		String[] musics=request.getParameterValues("musics");
+		String[] sports=request.getParameterValues("sports");
+		String[] rests = request.getParameterValues("rests");
+		String[] drinks =request.getParameterValues("drinks");
+		
+		String[] musics=request.getParameterValues("musics");
+		String[] sports=request.getParameterValues("sports");
 		
 		if(rests != null) {
 			//createAddressList(rests);
